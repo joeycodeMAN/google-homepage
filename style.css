@@ -11,3 +11,17 @@ li {
     border-radius: 5px;
     width: 584px;
 }
+
+.search-wrapper {
+    position: relative;
+}
+
+.search-wrapper img {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
+
+button1 {
+    margin-left: 150px;
+}
